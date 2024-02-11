@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Julia Lee."
 email: 'juliatylee516@gmail.com'
-description: "I'm an engineering undergraduate and curious self-starter looking to make a difference in people's lives."
+description: "I'm studying Mechanical Engineering with a specialization in Renewable Energy and Environmental Flows B.S. June 2025 at University of California, San Diego. I'm a curious self-starter looking to make a difference in people's lives and leave the world better than I found it." 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jubileea.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'julialee123'
@@ -99,4 +99,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-  - { url: '/blog', text: 'Blog' }
+  - { url: 'https://github.com/jubileea', text: 'My GitHub' }
