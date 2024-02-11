@@ -13,6 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# /about/ to get to the About section
+# this is the index / home page
+
 title: "Hello. I'm Julia Lee."
 email: 'juliatylee516@gmail.com'
 description: "I'm studying Mechanical Engineering with a specialization in Renewable Energy and Environmental Flows B.S. June 2025 at University of California, San Diego. I'm a curious self-starter looking to make a difference in people's lives and leave the world better than I found it." 
@@ -21,6 +25,7 @@ url: "https://jubileea.github.io/phantom" # the base hostname & protocol for you
 linkedin_username: 'julialee123'
 github_username: 'jubileea'
 medium_username: 'blog.jubileea.com'
+[LinkedIn](https://www.linkedin.com/in/julialee123/). 
 
 # Build settings
 markdown: kramdown
