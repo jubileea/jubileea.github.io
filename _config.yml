@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# /about/ to get to the About section
-# this is the index / home page
+# /about to get to the About section (the css instructions)
+# this is the index "/" home page
 
 title: "Hello. I'm Julia Lee."
 email: 'juliatylee516@gmail.com'
@@ -102,6 +102,6 @@ enable_contact: false
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/', text: 'About' }
+  - { url: 'https://www.linkedin.com/in/julialee123/', text: 'My LinkedIn' }
   - { url: 'https://github.com/jubileea', text: 'My GitHub' }
